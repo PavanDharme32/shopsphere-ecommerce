@@ -1,0 +1,7 @@
+For register user Use : POST =http://localhost:8383/auth/register
+
+For Add new products  Use : POST= http://localhost:8383/api/products/add
+For  Get all Products Use : GET = http://localhost:8383/api/products
+For get product by id Use : GET = http://localhost:8383/api/products/{id}
+For update product    Use : PUT = http://localhost:8383/api/products/update/{id}
+for Delete product    Use : DELETE = http://localhost:8383/api/products/delete/{id}
